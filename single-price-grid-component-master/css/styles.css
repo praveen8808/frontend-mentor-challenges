@@ -1,0 +1,65 @@
+body {
+    font-size: 1rem;
+    font-family: 'Karla', sans-serif;
+    color: hsl(204, 43%, 93%);
+}
+
+h1 {
+    color: hsl(179, 62%, 43%);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 3%;
+}
+h2 {
+    font-size: 1.2rem;
+    color:hsl(71, 73%, 54%);
+    margin-bottom: 2%;
+}
+
+.sub-header {
+    color: #fff;
+    margin-bottom: 7%;
+}
+
+.row {
+    margin: 5% 25%;
+    
+}
+/* Top Container */
+
+.top-text {
+    color: hsl(218, 22%, 67%);
+    margin: 0%;
+
+}
+.top-container {
+    background-color:#fff;
+    padding: 6%;
+}
+
+/* Middle Container */
+
+.cost {
+    font-size: 2rem;
+}
+.middle-container {
+    background-color: hsl(179, 62%, 43%);
+    padding: 6%;
+}
+
+.btn {
+    margin-top: 15%;
+    background-color: hsl(71, 73%, 54%);
+    color: hsl(204, 43%, 93%) ;
+}
+
+/* Bottom Container */
+
+.para-text {
+    margin: 0%;
+}
+
+.bottom-container {
+    background-color: hsl(179, 58%, 52%);
+    padding: 6%;
+}
